@@ -6,9 +6,9 @@
 ![title](https://cdn.modrinth.com/data/cached_images/0d39d829dcec50c64a4e82cb2ec95ff78c45dd06.png)
 
 <p>
-    <img src="https://img.shields.io/badge/Version-1.18.2-bee135?style=flat"/>
-    <img src="https://img.shields.io/badge/Version-1.20.1-eb824b?style=flat"/>
-    <img src="https://img.shields.io/badge/Mod%20Loader-Forge-dbd0b4?style=flat"Loader" />
+    <img src="https://img.shields.io/badge/Version-1.18.2-bee135?style=flat">
+    <img src="https://img.shields.io/badge/Version-1.20.1-eb824b?style=flat">
+    <img src="https://img.shields.io/badge/Mod%20Loader-Forge-dbd0b4?style=flat">
 </p>
 
 </div>
@@ -36,6 +36,7 @@ Only the bravest and wisest adventurers can harness this power and fulfill the l
 - **Twilight Forest** 
 - **The Bumblezone** 
 - **Mekanism**
+- **The Aether** (>=1.19.2)
 
 
 
@@ -62,7 +63,7 @@ Only the bravest and wisest adventurers can harness this power and fulfill the l
 - All items that have not been added with EMC will be manually calculated by the author through the formula. If possible, consider having a cup of coffee as an encouragement.
 
 
-——————————————————————————————————————————————————
+————————————————————————————————————————————————————
 
 <div align="center">
 
@@ -71,9 +72,9 @@ Only the bravest and wisest adventurers can harness this power and fulfill the l
 ![title](https://cdn.modrinth.com/data/cached_images/0d39d829dcec50c64a4e82cb2ec95ff78c45dd06.png)
 
 <p>
-    <img src="https://img.shields.io/badge/版本-1.18.2-bee135?style=flat"/>
-    <img src="https://img.shields.io/badge/版本-1.20.1-eb824b?style=flat"/>
-    <img src="https://img.shields.io/badge/模组加载器-Forge-dbd0b4?style=flat"Loader" />
+    <img src="https://img.shields.io/badge/版本-1.18.2-bee135?style=flat">
+    <img src="https://img.shields.io/badge/版本-1.20.1-eb824b?style=flat">
+    <img src="https://img.shields.io/badge/模组加载器-Forge-dbd0b4?style=flat">
 </p>
 
 </div>
@@ -100,6 +101,7 @@ Only the bravest and wisest adventurers can harness this power and fulfill the l
 - **暮色森林**  
 - **蜜蜂领域**
 - **通用机械**
+- **天境** (>=1.19.2)
 
 
 ## 🎯 特点
