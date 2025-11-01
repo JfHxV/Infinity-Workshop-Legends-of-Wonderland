@@ -63,7 +63,7 @@ Only the bravest and wisest adventurers can harness this power and fulfill the l
 - All items that have not been added with EMC will be manually calculated by the author through the formula. If possible, consider having a cup of coffee as an encouragement.
 
 
-————————————————————————————————————————————————————
+---
 
 <div align="center">
 
